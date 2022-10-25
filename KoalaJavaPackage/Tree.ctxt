@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Tree
+comment0.text=\n\ The\ tree\ class\ stores\ the\ property\ of\ every\ single\ tree\ in\ the\ Koala\ Rescue.\n\n\ @author\ (Sanket\ Agarwal)\n\ @studentID\ (31224482)\n\ @version\ (12/06/2020)\n
+comment1.params=
+comment1.target=Tree()
+comment2.params=treeType
+comment2.target=Tree(int)
+comment3.params=
+comment3.target=double\ getFoodProduced()
+comment4.params=
+comment4.target=boolean\ getIsShelter()
+comment5.params=
+comment5.target=java.lang.String\ getNameOfTree()
+comment6.params=
+comment6.target=int\ getTypeOfTree()
+comment7.params=treeType
+comment7.target=void\ setFoodProduced(int)
+comment8.params=treeType
+comment8.target=void\ setIsShelter(int)
+comment9.params=treeType
+comment9.target=void\ setNameOfTree(int)
+numComments=10
