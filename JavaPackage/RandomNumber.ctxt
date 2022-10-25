@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RandomNumber
+comment0.text=\n\ This\ class\ is\ used\ to\ generate\ two\ random\ numbers\n\ which\ are\ used\ as\ the\ correct\ answers\ during\ the\ game.\n\ \n\ @author\ (Sanket\ Agarwal)\n\ @studentID\ (31224482)\n\ @version\ (12/06/2020)\n
+comment1.params=
+comment1.target=RandomNumber()
+comment1.text=\n\ RandomNumber\ Constructor\n\ The\ RandomNumber\ constructor\ initialises\ the\ field\ of\ the\ object.\n
+comment2.params=minimumNumber\ maximumNumber
+comment2.target=int\ numberGenerator(int,\ int)
+comment2.text=\n\ Method\ numberGenerator\n\ The\ numberGenrator\ method\ generates\ the\ random\ numbers\ when\n\ it's\ called\ and\ updates\ it\ in\ the\ variables.\n\ @param\ maximumNumber\ A\ parameter\ that\ defines\ the\ maximum\ number\ that\ the\ system\ will\ random\ till.\n\ @return\ The\ return\ value\ will\ return\ a\ random\ number\ between\ 1\ and\ the\ parameterised\ maximum\ value.\n
+numComments=3
